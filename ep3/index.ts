@@ -61,18 +61,18 @@ function ค่าBMI(weight_kg: number, height_m: number) {
     }
 
 function criterion(weight_kg: number, height_m: number) {
-    let BMI : number = weight _kg / height_m **2
+    let BMI : number = weight_kg / height_m **2
 
     if (BMI < 18.5 ) {
         return 'ผอมเกิน'
     } else if (BMI > 18.5 && BMI < 24) {
         return 'น้ำหนักปกติ เหมาะสม'
-    } else if (NMI > 24 && BMI < 29.5) {
+    } else if (BMI > 24 && BMI < 29.5) {
         return'อ้วน'
     } else if (BMI > 29.5 && BMI < 30.0){
         return'อ้วนมาก'
     }
 }
 
-console. Log ( ค่าBMI (60,1.65))
+console. log ( ค่าBMI (60,1.65))
 console. log ( criterion (60,1.65))
