@@ -1,4 +1,4 @@
-function helloWorld() {
+lfunction helloWorld() {
     console.log("สวัสดี")
 }
 
@@ -75,4 +75,4 @@ function criterion(weight_kg: number, height_m: number) {
 }
 
 console. log ( ค่าBMI (60,1.65))
-console. log ( criterion (60,1.65))
+console. log ( criterion (60,1.65)) // การบ้าน
