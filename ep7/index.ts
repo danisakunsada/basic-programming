@@ -68,4 +68,29 @@ console.log(me)
 // อายุ: 18
 
 
+Firstname: jonathan', 
+Lastname: ride, 
+Age: 19, 
+Tel: 09600000000
+Gender "male, 
+Address: 756/16' 
+village:8, 
+Road: pattanakhan, 
+District: pattanakhan', 
+Province: 'Bangkok', 
+PostalCode: 12345,
+Mail:'jonathan.ride@gmail.com
+//ชื้อ : Jonathan
+//นามสกุล : ride
+//อายุ : 19
+//เบอร์โทร : 09600000000
+//wr: male
+// ที่อยู่ : 756/16
+// หมู่บ้าน : 8
+//ถนน : pattanakhan
+//เขต : pattanakhan //จังหวัด : Bangkok
+//รหัสไปรษณีย์ : 12345
+//เมล:jonathan.ride@gmail.com
+
+
 
